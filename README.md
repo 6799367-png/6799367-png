@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Jamie Alisson Cortez Lemus
 
 ## 🧑‍💻 Sobre mí
-<img src="blob:chrome-untrusted://media-app/2554cf57-b6ac-43f5-b186-4fabd6c5c64a" alt="Screenshot 2026-08-18 3.12.01 PM.png"/>
 
 Soy estudiante del **INA** y actualmente estudio **Desarrollo de Software**. Me interesa aprender sobre programación, desarrollo web, bases de datos y nuevas tecnologías.
 
