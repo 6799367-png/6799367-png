@@ -1,7 +1,6 @@
 <div align="center">
 👋 ¡Hola! Soy Jamie Alisson Cortez Lemus
-<img <img src="blob:chrome-untrusted://media-app/ee1a8970-36e1-4b2d-a29c-fab39faf0525" alt="Screenshot 2026-08-18 3.12.01 PM.png"/><img width="537" height="548" alt="image" src="https://github.com/user-attachments/assets/14cd8421-5c41-4a3e-8402-e2cd4b77d8ea" />
->
+<
 💻 Estudiante de Desarrollo de Software
 </div>
 🧑‍💻 Sobre mí
